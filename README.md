@@ -12,3 +12,5 @@ Lab_5 - https://colab.research.google.com/drive/1_RtvmCOiI_nE19Y2ZtmigFUpcJeuq4o
 Lab_6 - https://colab.research.google.com/drive/1KFQV7eflg7KKov2uK4pwybuoNSa8-CT4#scrollTo=mcdjPgPaTCsp
 
 Lab_7 - https://colab.research.google.com/drive/1u5VJtKMOPMUVak1bjzEtAvETcdDocogw#scrollTo=5FkMEbW5YxC7
+
+Lab_8 - https://colab.research.google.com/drive/1dm9at2GENEjCU6_xodrVCqIJCtAa7aoH#scrollTo=IwnCPB8tYwQK
